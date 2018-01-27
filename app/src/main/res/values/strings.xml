@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IosDialog</string>
+    <string name="zhuXiao">退出登陆</string>
+    <string name="exit">确认退出</string>
+    <string name="no">取消</string>
+    <string name="info">在连续登录4天，就可变身QQ达人，退出QQ可能会使您的使用记录清零，确认要退出吗？</string>
+
+</resources>
